@@ -25,7 +25,7 @@ export default class App extends Component<Props> {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Chào mọi người tôi là Đông a và ad
+          Chào mọi người tôi là Đông a và ad dd
         </Text>
         <Text style={styles.instructions}>
           Rất vui được làm quen bạn hehe
